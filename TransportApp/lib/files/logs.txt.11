@@ -1,0 +1,52 @@
+февр. 09, 2023 4:28:24 PM main.app.TrainBuilder <init>
+INFO: Starts initialize TrainBuilder
+февр. 09, 2023 4:28:24 PM main.app.TrainBuilder assignWagonsToTheTrains
+INFO: Starts assigning wagons to the trains
+февр. 09, 2023 4:28:24 PM main.app.TrainBuilder <init>
+INFO: Finished initialize TrainBuilder
+февр. 09, 2023 4:28:24 PM main.app.TrainBuilder createTrain
+INFO: Starting execute 'createTrain' method
+февр. 09, 2023 4:28:24 PM main.app.TrainBuilder createTrain
+INFO: Sorting wagons by the same comfort type
+февр. 09, 2023 4:28:24 PM main.app.TrainBuilder getWagonsByComfort
+INFO: Sorting wagons by the same comfort type
+февр. 09, 2023 4:28:24 PM main.app.TrainBuilder chooseWagon
+INFO: Choosing wagon with better proportion (seats/weight per person)
+февр. 09, 2023 4:28:24 PM main.app.TrainBuilder getWagonsByComfort
+INFO: Sorting wagons by the same comfort type
+февр. 09, 2023 4:28:24 PM main.app.TrainBuilder chooseWagon
+INFO: Choosing wagon with better proportion (seats/weight per person)
+февр. 09, 2023 4:28:24 PM main.app.TrainBuilder getWagonsByComfort
+INFO: Sorting wagons by the same comfort type
+февр. 09, 2023 4:28:24 PM main.app.TrainBuilder chooseWagon
+INFO: Choosing wagon with better proportion (seats/weight per person)
+февр. 09, 2023 4:28:24 PM main.app.TrainBuilder createTrain
+INFO: Getting and writing in ArrayList AssignedWagon's
+февр. 09, 2023 4:28:24 PM main.app.TrainBuilder createTrain
+INFO: Assign them to the train
+февр. 09, 2023 4:28:24 PM main.app.TrainBuilder createTrain
+INFO: Starting execute 'createTrain' method
+февр. 09, 2023 4:28:24 PM main.app.TrainBuilder createTrain
+INFO: Sorting wagons by the same comfort type
+февр. 09, 2023 4:28:24 PM main.app.TrainBuilder getWagonsByComfort
+INFO: Sorting wagons by the same comfort type
+февр. 09, 2023 4:28:24 PM main.app.TrainBuilder chooseWagon
+INFO: Choosing wagon with better proportion (seats/weight per person)
+февр. 09, 2023 4:28:24 PM main.app.TrainBuilder getWagonsByComfort
+INFO: Sorting wagons by the same comfort type
+февр. 09, 2023 4:28:24 PM main.app.TrainBuilder chooseWagon
+INFO: Choosing wagon with better proportion (seats/weight per person)
+февр. 09, 2023 4:28:24 PM main.app.TrainBuilder getWagonsByComfort
+INFO: Sorting wagons by the same comfort type
+февр. 09, 2023 4:28:24 PM main.app.TrainBuilder chooseWagon
+INFO: Choosing wagon with better proportion (seats/weight per person)
+февр. 09, 2023 4:28:24 PM main.app.TrainBuilder createTrain
+INFO: Getting and writing in ArrayList AssignedWagon's
+февр. 09, 2023 4:28:24 PM main.app.TrainBuilder createTrain
+INFO: Assign them to the train
+февр. 09, 2023 4:28:24 PM main.app.TrainBuilder sortWagons
+INFO: 'sortWagons' was executed!
+февр. 09, 2023 4:28:24 PM main.app.TrainBuilder sortWagons
+INFO: Find train that we looking for!
+февр. 09, 2023 4:28:24 PM main.app.TrainBuilder sortWagons
+INFO: Sorting was finished
